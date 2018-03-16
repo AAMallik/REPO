@@ -1,3 +1,8 @@
 Adel Mallik
+<<<<<<< HEAD
 23219
 mallikaa@vcu.edu
+=======
+8046256259
+mallikaa
+>>>>>>> 43398d57b549aed662be7c1ccbcce5bad098a828
